@@ -16,6 +16,7 @@
     "chai": "^4.2.0",
     "ethereum-waffle": "^3.4.4",
     "ethers": "^5.4.7",
+    "fs": "^0.0.1-security",
     "hardhat": "^2.9.9",
     "ipfs-http-client": "^57.0.3",
     "next": "12.2.5",
