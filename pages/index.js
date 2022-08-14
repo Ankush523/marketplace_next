@@ -44,8 +44,7 @@ export default function Home() {
         return item;
       })
     );
-
-    setNfts(item);
+    setNfts(items);
     setLoadingState("loaded");
   }
 
